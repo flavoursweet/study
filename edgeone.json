@@ -1,0 +1,5 @@
+{
+  "installCommand": "echo No dependencies to install",
+  "buildCommand": "node scripts/build.cjs",
+  "outputDirectory": "dist"
+}
